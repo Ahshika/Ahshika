@@ -53,5 +53,5 @@ ROLE      full-stack · AI     PORTFOLIO ahshika.github.io
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahshika.github.io-151a20?style=flat-square)](https://ahshika.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ah--shika-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ah-shika-3098623ba/)
-[![Email](https://img.shields.io/badge/Email-ahmedhassanshika%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedhassanshika@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ahmedhassanshika%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedhassanshika655@gmail.com)
 [![CV](https://img.shields.io/badge/CV-PDF-39d9ac?style=flat-square)](https://ahshika.github.io/cv/Ahmed-Hassan-CV-EN.pdf)
