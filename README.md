@@ -17,6 +17,7 @@ ROLE      full-stack · AI     PORTFOLIO ahshika.github.io
 |---|---|---|
 | [**FiberLens**](https://github.com/Ahshika/FiberLens) · [live](https://fiberlens.pages.dev) | Smart CAD for fibre (FTTH) engineers: opens and edits DWG/DXF on Android, iOS and web, with your live GPS position inside the drawing. WebGL2 renderer, <1 ms per frame on 85k entities. | TypeScript · React · WebGL2 · Capacitor |
 | [**AI Live Translator**](https://github.com/Ahshika/AI-Live-Translator) | Two-way real-time voice translation inside Zoom, Teams and Meet, 103 languages, running 100% on your PC. | Python · Whisper · NLLB-200 · Piper · C# |
+| [**Order Ly**](https://github.com/Ahshika/Order-Ly) · [live](https://orderly-yvzug.web.app) | Cafe POS where customers scan the table QR, order and pay from their own phone (wallets / InstaPay with a transfer screenshot) and track the order live. Bar & kitchen display, recipe-based stock, self-healing local server. | Flutter · Dart · SQLite · Firebase |
 | [**FixTrack**](https://github.com/Ahshika/FixTrack) | Repair-shop and POS system for Windows and Android. The shop PC is the server, and it works fully offline. | Flutter · Dart · SQLite · Firebase |
 | [**NightGold V3**](https://github.com/Ahshika/NightGold-Password-Manager) | Password manager and file locker for Windows, unlocked by a TOTP code and encrypted with AES-256. | Electron · React · SQLite |
 
